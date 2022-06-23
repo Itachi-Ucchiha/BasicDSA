@@ -3,7 +3,7 @@ public class Timecomplexity {
     static void approach1(int arr[]){
     // reverse the array
         // approach 1 - 
-        // take an empty array and start storing the elments from the last
+        // take an empty array and start storing the elments from the last (we are making a new memory)
         //  TC = O(n), SC = O(n)
         int aux[] = new int[arr.length];      //auxillary space = extra space
         for(int i= arr.length-1,j=0; i>=0;i--,j++){
@@ -20,6 +20,7 @@ public class Timecomplexity {
     static void approach2(int arr[]){
         // TC = O(n), SC = O(1)
         // technique name = 2 pointer approach
+        // without any extra space (memory) - as we aren't making any new array here
         int i =  0;
         int j = arr.length-1;
         while(i<j){
