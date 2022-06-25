@@ -27,3 +27,8 @@ public class arrayExamples {
             
     }   
 }
+
+
+
+// Output 
+// The greatest number is : 231
