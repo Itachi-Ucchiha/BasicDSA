@@ -62,10 +62,6 @@ public class arrayExamples {
 
 
 
-
-
-
-
 // ----------------------------------------Output--------------------------------------------------
 // The greatest number is : 231
 // Largest element is : 231
