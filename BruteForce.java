@@ -42,7 +42,7 @@ public class arrayExamples {
     // by sorting the array in ascending order and finding the last element
     // time complexity = O(n)
     static void approach_3(int[] arr, int n){
-        Arrays.sort(arr);       // importesd the built in library for sorting the array
+        Arrays.sort(arr);       // importesd the built in library for sorting the array------ this uses the pivot sort (Quick sort)
         int max = arr[n-1];
         System.out.println("max num is : "+max);
     }
