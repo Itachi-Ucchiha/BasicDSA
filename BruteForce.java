@@ -30,5 +30,22 @@ public class arrayExamples {
 
 
 
+
+// Another approach by thking the 1st number as max
+ static void approach_2(int[] arr, int n){
+        int max = arr[0];
+        for(int i=1;i<n;i++){
+            if(arr[i]>max){
+                max = arr[i];
+            }
+        }
+        System.out.println("Largest element is : "+max);
+    }
+
+
+
+
+
+
 // Output 
 // The greatest number is : 231
