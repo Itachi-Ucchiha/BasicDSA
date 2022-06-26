@@ -18,3 +18,7 @@
     
 7. Reverse an array.
     solution -  https://github.com/Itachi-Ucchiha/BasicDSA/blob/main/30May(II)%2Cjava
+
+8. Two sum problem (leetcode).
+    problem link - https://leetcode.com/problems/two-sum/
+    solution - https://github.com/Itachi-Ucchiha/BasicDSA/blob/main/TwoSum.java
