@@ -10,4 +10,4 @@
 6. Check if array is sorted or not.
     sol - https://github.com/Itachi-Ucchiha/BasicDSA/blob/main/30May(I).java
 7. Reverse an array.
-    sol - 
+    sol -  
