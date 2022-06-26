@@ -17,4 +17,4 @@
     solution - https://github.com/Itachi-Ucchiha/BasicDSA/blob/main/30May(I).java
     
 7. Reverse an array.
-    solution -  
+    solution -  https://github.com/Itachi-Ucchiha/BasicDSA/blob/main/30May(II)%2Cjava
