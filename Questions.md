@@ -22,3 +22,10 @@
 8. Two sum problem (leetcode).
     problem link - https://leetcode.com/problems/two-sum/
     solution - https://github.com/Itachi-Ucchiha/BasicDSA/blob/main/TwoSum.java
+
+9. Rotate array by 1.
+    solution - https://github.com/Itachi-Ucchiha/BasicDSA/blob/main/30May(III).java
+
+10. Rotate array by k.(leetcode)
+    problem link - https://leetcode.com/problems/rotate-array/
+    solution - 
