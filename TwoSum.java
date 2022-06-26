@@ -67,7 +67,7 @@ public class TwoSum {
         int j = arr.length-1;
         Arrays.sort(arr);       // important - sort the array
         while(i<j){
-            if(arr[i]+arr[j]==0){
+            if(arr[i]+arr[j]==target){
                 System.out.println("The pair is : "+arr[i]+","+arr[j]);
             }
             else if(arr[i]+arr[j]<target){
