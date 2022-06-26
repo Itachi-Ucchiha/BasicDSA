@@ -1,4 +1,10 @@
- static int max(int[] arr){
+// span of the array - Difference b/w the max and min element of an array.
+// span of the array - Difference b/w the max and min element of an array.
+// span of the array - Difference b/w the max and min element of an array.
+
+
+
+static int max(int[] arr){
         int maxNum = arr[0];
         for(int i =1; i<arr.length;i++){
             if(arr[i]>maxNum){
