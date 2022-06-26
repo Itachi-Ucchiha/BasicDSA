@@ -33,16 +33,8 @@ public class RotateArray {
             System.out.print(x+",");
         }
     }
-  
-  
-  
-// -------------------------------- Output ---------------------------------
-//   9,2,4,6,8,
 
     
-
-
-
 
     public static void main(String[] args) {
         int[] arr = {2,4,6,8,9};
@@ -52,3 +44,9 @@ public class RotateArray {
         rotateOnce2(arr, length);
     }
 }
+
+
+
+
+// -------------------------------- Output ---------------------------------
+//   9,2,4,6,8,
