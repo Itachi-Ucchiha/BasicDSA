@@ -6,7 +6,7 @@
     
 3. Third largest number in array
 
-4 - span of the array - Difference b/w the max and min element of an array 
+ 4 - span of the array - Difference b/w the max and min element of an array 
     sol - https://github.com/Itachi-Ucchiha/BasicDSA/blob/main/SpanOfArray.java
     
 5. Print Bar chart
