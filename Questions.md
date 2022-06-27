@@ -28,4 +28,4 @@
 
 10. Rotate array by k.(leetcode)
     problem link - https://leetcode.com/problems/rotate-array/
-    solution - 
+    solution - https://github.com/Itachi-Ucchiha/BasicDSA/blob/main/30May(IV).java
