@@ -2,7 +2,6 @@
 
 public class RotateArrayByK {
     
-
     static void rotateArrayK(int[] arr, int n, int k){
         // store last element in a variable and shift the array to forward....
         // thus the array is rotated to right once
