@@ -33,3 +33,6 @@
 11. Remove Duplicate values from the sorted array.(leetcode)
     problem link: https://leetcode.com/problems/remove-duplicates-from-sorted-array/
     solution - https://github.com/Itachi-Ucchiha/BasicDSA/blob/main/30May(V).java
+    
+12. Addition of two arrays. with carry logic 
+    solution - https://github.com/Itachi-Ucchiha/BasicDSA/blob/main/30May(VI).java
