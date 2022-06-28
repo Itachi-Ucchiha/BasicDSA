@@ -36,3 +36,6 @@
     
 12. Addition of two arrays. with carry logic 
     solution - https://github.com/Itachi-Ucchiha/BasicDSA/blob/main/30May(VI).java
+    
+13. Subtraction of two arrays. Borrow logic (first num > second num)
+    solution - https://github.com/Itachi-Ucchiha/BasicDSA/blob/main/30May(VII).java
