@@ -39,3 +39,9 @@
     
 13. Subtraction of two arrays. Borrow logic (first num > second num)
     solution - https://github.com/Itachi-Ucchiha/BasicDSA/blob/main/30May(VII).java
+    
+14. Find the odd element in sorted array which is appearing once 
+        (all the elments are appearing twice except for one)
+        I/P - {1,1,2,2,4,4,6,7,7}
+        O/P - 6 (because 6 is appearing once)
+    solution - https://github.com/Itachi-Ucchiha/BasicDSA/blob/main/1june(I).java
