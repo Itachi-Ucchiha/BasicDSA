@@ -15,6 +15,17 @@ public class OddElement {
     }
 
 
+    // approach 2 - XOR approach (Optimized)
+    static int XORapproach(int[] nums){
+        int ans = 0;
+        for(int i =0 ; i<nums.length;i++){
+            ans = ans ^ nums[i];        // XOR of the same numbers are 0 ... but XOR of different numbers!=0    .. 
+                                        // and XOR of 0 and number is = number 
+        }
+        return ans;
+    } 
+    
+    
 
     public static void main(String[] args) {
         int[] arr = {1,1,2,2,4,4,6,7,7};
@@ -29,3 +40,4 @@ public class OddElement {
 
 // ------------------- Output --------------------------
 // the value is : 6
+ 
