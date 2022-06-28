@@ -44,4 +44,5 @@
         (all the elments are appearing twice except for one)
         I/P - {1,1,2,2,4,4,6,7,7}
         O/P - 6 (because 6 is appearing once)
+    problem link - https://leetcode.com/problems/single-number/
     solution - https://github.com/Itachi-Ucchiha/BasicDSA/blob/main/1june(I).java
