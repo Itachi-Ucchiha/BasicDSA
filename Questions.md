@@ -29,3 +29,7 @@
 10. Rotate array by k.(leetcode)
     problem link - https://leetcode.com/problems/rotate-array/
     solution - https://github.com/Itachi-Ucchiha/BasicDSA/blob/main/30May(IV).java
+
+11. Remove Duplicate values from the sorted array.(leetcode)
+    problem link: https://leetcode.com/problems/remove-duplicates-from-sorted-array/
+    solution - https://github.com/Itachi-Ucchiha/BasicDSA/blob/main/30May(V).java
