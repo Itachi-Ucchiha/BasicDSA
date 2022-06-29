@@ -19,7 +19,7 @@
 7. Reverse an array.<br>
     solution -  https://github.com/Itachi-Ucchiha/BasicDSA/blob/main/30May(II)%2Cjava<br>
 
-8. Two sum problem (leetcode).<br>
+8. Pair sum leetcode (leetcode).<br>
     problem link - https://leetcode.com/problems/two-sum/<br>
     solution - https://github.com/Itachi-Ucchiha/BasicDSA/blob/main/TwoSum.java<br>
 
