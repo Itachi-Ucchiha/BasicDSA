@@ -24,7 +24,7 @@ public class TwoSum {
 
 
     // My approach 
-    // TC = O(n^2)
+    // TC = O(n^2) and SC = O(n)
     static int[] Approach1(int[] nums, int target) {
         int arr[] = new int[2];
         for(int i =0; i<nums.length; i++){
