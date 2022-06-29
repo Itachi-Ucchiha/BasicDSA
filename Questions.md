@@ -7,7 +7,7 @@
 3. Third largest number in array.<br>
     solution - Nahi kiya maine .....Khud krr lena <br>
     
-4 - span of the array - Difference b/w the max and min element of an array.<br>
+4. span of the array - Difference b/w the max and min element of an array.<br>
     solution - https://github.com/Itachi-Ucchiha/BasicDSA/blob/main/SpanOfArray.java<br>
     
 5. Print Bar chart.<br>
