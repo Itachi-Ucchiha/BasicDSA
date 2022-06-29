@@ -50,3 +50,10 @@
 15. Missing number in an array<br>
     problem link - https://leetcode.com/problems/missing-number/submissions/  <br>
     solution - https://github.com/Itachi-Ucchiha/BasicDSA/blob/main/1June(II).java  <br>
+    
+16. Sort 0s and 1s in an array.<br>
+        arr = {0,1,0,0,1,1,1,0,0,0,1,0};<br>
+        O/P = {0,0,0,0,0,0,0,1,1,1,1,1};<br>
+    solution - https://github.com/Itachi-Ucchiha/BasicDSA/blob/main/1june(III).java <br>
+
+17. 
