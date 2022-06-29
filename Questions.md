@@ -46,3 +46,7 @@
         O/P - 6 (because 6 is appearing once)<br>
     problem link - https://leetcode.com/problems/single-number/ <br>
     solution - https://github.com/Itachi-Ucchiha/BasicDSA/blob/main/1june(I).java <br>
+    
+15. Missing number in an array<br>
+    problem link - https://leetcode.com/problems/missing-number/submissions/  <br>
+    solution - 
