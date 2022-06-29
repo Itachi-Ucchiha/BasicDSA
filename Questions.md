@@ -1,8 +1,8 @@
 1. Largest Element in an array.<br>
-    solution - https://github.com/Itachi-Ucchiha/BasicDSA/blob/main/LargestElementArray.java
-    <br>
+    solution - https://github.com/Itachi-Ucchiha/BasicDSA/blob/main/LargestElementArray.java<br>
+    
 2. Second largest number in array.<br>
-    solution - https://github.com/Itachi-Ucchiha/BasicDSA/blob/main/SecondLargestNumber.java
+    solution - https://github.com/Itachi-Ucchiha/BasicDSA/blob/main/SecondLargestNumber.java<br>
     
 3. Third largest number in array.<br>
     solution - Nahi kiya maine .....Khud krr lena <br>
