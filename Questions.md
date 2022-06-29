@@ -19,7 +19,7 @@
 7. Reverse an array.<br>
     solution -  https://github.com/Itachi-Ucchiha/BasicDSA/blob/main/30May(II)%2Cjava<br>
 
-8. Pair sum leetcode (leetcode).<br>
+8. Two sum problem (leetcode).<br>
     problem link - https://leetcode.com/problems/two-sum/<br>
     solution - https://github.com/Itachi-Ucchiha/BasicDSA/blob/main/TwoSum.java<br>
 
@@ -59,3 +59,7 @@
 17. 18. Sort 0,1 and 2 / Dutch National flag / Sort Colors.<br>
     problem link - https://leetcode.com/problems/sort-colors/   <br>
     solution - https://github.com/Itachi-Ucchiha/BasicDSA/blob/main/1June(IV).java
+
+18. Running sum of an array. <br>
+    problem link - https://leetcode.com/problems/running-sum-of-1d-array/ <br>
+    solution - https://github.com/Itachi-Ucchiha/BasicDSA/blob/main/1June(V).java <br>
