@@ -49,4 +49,4 @@
     
 15. Missing number in an array<br>
     problem link - https://leetcode.com/problems/missing-number/submissions/  <br>
-    solution - 
+    solution - https://github.com/Itachi-Ucchiha/BasicDSA/blob/main/1June(II).java  <br>
