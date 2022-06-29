@@ -5,14 +5,14 @@
     solution - https://github.com/Itachi-Ucchiha/BasicDSA/blob/main/SecondLargestNumber.java
     
 3. Third largest number in array.<br>
-    solution - Nahi kiya maine .....Khud krr lena
-    <br>
+    solution - Nahi kiya maine .....Khud krr lena <br>
+    
 4 - span of the array - Difference b/w the max and min element of an array.<br>
-    solution - https://github.com/Itachi-Ucchiha/BasicDSA/blob/main/SpanOfArray.java
-    <br>
+    solution - https://github.com/Itachi-Ucchiha/BasicDSA/blob/main/SpanOfArray.java<br>
+    
 5. Print Bar chart.<br>
-    solution - https://github.com/Itachi-Ucchiha/BasicDSA/blob/main/30May.java
-    <br>
+    solution - https://github.com/Itachi-Ucchiha/BasicDSA/blob/main/30May.java<br>
+    
 6. Check if array is sorted or not.<br>
     solution - https://github.com/Itachi-Ucchiha/BasicDSA/blob/main/30May(I).java<br>
     
