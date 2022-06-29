@@ -56,4 +56,6 @@
         O/P = {0,0,0,0,0,0,0,1,1,1,1,1};<br>
     solution - https://github.com/Itachi-Ucchiha/BasicDSA/blob/main/1june(III).java <br>
 
-17. 
+17. 18. Sort 0,1 and 2 / Dutch National flag / Sort Colors.<br>
+    problem link - https://leetcode.com/problems/sort-colors/   <br>
+    solution - https://github.com/Itachi-Ucchiha/BasicDSA/blob/main/1June(IV).java
