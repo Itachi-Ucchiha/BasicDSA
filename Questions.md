@@ -71,4 +71,8 @@
     problem link - https://leetcode.com/problems/best-time-to-buy-and-sell-stock/ <br>
     solution - https://github.com/Itachi-Ucchiha/BasicDSA/blob/main/2June(II).java <br>
 
-21.
+21. trapping rain water problem (leetcode)<br>
+    problem link - https://leetcode.com/problems/trapping-rain-water/   <br>
+    solution - https://github.com/Itachi-Ucchiha/BasicDSA/blob/main/2june(III).java <br>
+
+22. 
