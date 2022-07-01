@@ -63,3 +63,6 @@
 18. Running sum of an array. <br>
     problem link - https://leetcode.com/problems/running-sum-of-1d-array/ <br>
     solution - https://github.com/Itachi-Ucchiha/BasicDSA/blob/main/1June(V).java <br>
+    
+19. Leader Element in an array. <br>
+    solution - https://github.com/Itachi-Ucchiha/BasicDSA/blob/main/2June(I).java
