@@ -67,7 +67,7 @@
 19. Leader Element in an array. <br>
     solution - https://github.com/Itachi-Ucchiha/BasicDSA/blob/main/2June(I).java   <br>
 
-20. Best Time to Buy and Sell Stock ,br>
+20. Best Time to Buy and Sell Stock <br>
     problem link - https://leetcode.com/problems/best-time-to-buy-and-sell-stock/ <br>
     solution - https://github.com/Itachi-Ucchiha/BasicDSA/blob/main/2June(II).java <br>
 
