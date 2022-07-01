@@ -34,13 +34,13 @@ public class TrappingWater {
 
         int amountOfWater = 0;
         for(int i = 0; i<n; i++){
-            int currentPillar = height[i];  
+           // int currentPillar = height[i];  
             int h1 = prefixMax[i];      // the max height from left till here 
             int h2 = suffixMax[i];      // the max height from right till here 
             int decidingHeight = Math.min(h1, h2);
-            if(decidingHeight>currentPillar){
-                amountOfWater+=decidingHeight-currentPillar;
-            }
+         //   if(decidingHeight>currentPillar){
+                amountOfWater+=decidingHeight-height[i];  //currentPillar;
+          //  }
 
         }
         return amountOfWater;
