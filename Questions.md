@@ -75,4 +75,8 @@
     problem link - https://leetcode.com/problems/trapping-rain-water/   <br>
     solution - https://github.com/Itachi-Ucchiha/BasicDSA/blob/main/2june(III).java <br>
 
-22. 
+22. Majority Element <br>
+    problem link - https://leetcode.com/problems/majority-element/ <br>
+    solution - https://github.com/Itachi-Ucchiha/BasicDSA/blob/main/2June(IV).java <br>
+
+23. 
