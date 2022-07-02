@@ -35,12 +35,25 @@ public class MajorityElement {
 
     // appraoch 3 - Boyer moore Algorithm (basically vote algorithm- used in string questions)
     // if the same element come increment count ... if other element apper decrement the count  
-    // TC = O(n) and SC = O(1) 
+    // TC = O(n) and SC = O(1)
+    
+    // Algo -  
+    /* 
+    1 - We maintain a count 
+    2 - count is  incremented whenever we see an instance of our array current element is equal to majority element 
+    3- else we decrement the count 
+    
+    */
+    
+    
     static int appraoch3(int[] nums){
         int n = nums.length;
         int count =0;
         int majorityElement = 0;
         for(int i =0;i<n;i++){
+            
+            // whenever count == 0 we make a new majority element 
+            
             if(count==0){       // counter reset you can say
                 majorityElement = nums[i];
                 count++;
