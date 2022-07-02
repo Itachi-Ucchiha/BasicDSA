@@ -79,4 +79,7 @@
     problem link - https://leetcode.com/problems/majority-element/ <br>
     solution - https://github.com/Itachi-Ucchiha/BasicDSA/blob/main/2June(IV).java <br>
 
-23. 
+23. Arrange Positive and negative numbers in an array. <br>
+    solution - https://github.com/Itachi-Ucchiha/BasicDSA/blob/main/2June(V).java <br>
+    
+24.
