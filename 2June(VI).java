@@ -1,7 +1,8 @@
 public class NumbersSmallerThanCurrent {
     
   
-  
+ // Comments mai smjhe bhee diya kr time bachaga
+    
   
   
   
