@@ -92,4 +92,8 @@
 26. Nearest lowest and greatest number in an array (related with Binary Search) <br>
     solution - https://github.com/Itachi-Ucchiha/BasicDSA/blob/main/3June(III)%2Cjava <br>
 
-27. 
+27. Peak element in an array (leetcode) <br>
+    problem link - https://leetcode.com/problems/find-peak-element/submissions/ <br>
+    solution - https://github.com/Itachi-Ucchiha/BasicDSA/blob/main/3June(IV).java <br>
+
+28.
