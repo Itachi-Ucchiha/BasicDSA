@@ -86,4 +86,10 @@
     problem link - https://leetcode.com/problems/gas-station/submissions/  <br>
     solution - https://github.com/Itachi-Ucchiha/BasicDSA/blob/main/3June(I).java <br>
 
-25. 
+25. Binary Search <br>
+    solution - https://github.com/Itachi-Ucchiha/BasicDSA/blob/main/3June(II).java <br>
+
+26. Nearest lowest and greatest number in an array (related with Binary Search) <br>
+    solution - https://github.com/Itachi-Ucchiha/BasicDSA/blob/main/3June(III)%2Cjava <br>
+
+27. 
