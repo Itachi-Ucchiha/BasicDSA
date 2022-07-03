@@ -82,4 +82,8 @@
 23. Arrange Positive and negative numbers in an array. <br>
     solution - https://github.com/Itachi-Ucchiha/BasicDSA/blob/main/2June(V).java <br>
     
-24.
+24. Gas station problem (leetcode)<br>
+    problem link - https://leetcode.com/problems/gas-station/submissions/  <br>
+    solution - https://github.com/Itachi-Ucchiha/BasicDSA/blob/main/3June(I).java <br>
+
+25. 
