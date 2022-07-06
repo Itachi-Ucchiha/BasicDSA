@@ -103,4 +103,8 @@
     problem link - https://practice.geeksforgeeks.org/problems/max-sum-subarray-of-size-k5313/1 <br>
     solution - https://github.com/Itachi-Ucchiha/BasicDSA/blob/main/6thJune(I).java <br>
 
-30.
+30. Subarray sum whose sum is equal to given sum.<br>
+        arr[]= {10,20,30,40,50}, sum = 90 <br>
+    solution - https://github.com/Itachi-Ucchiha/BasicDSA/blob/main/6thJune(III).java <br>
+
+31. 
