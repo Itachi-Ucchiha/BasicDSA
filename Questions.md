@@ -107,4 +107,8 @@
         arr[]= {10,20,30,40,50}, sum = 90 <br>
     solution - https://github.com/Itachi-Ucchiha/BasicDSA/blob/main/6thJune(III).java <br>
 
-31. 
+31.  Subarray sum whose sum is equal to given sum.<br>
+        arr[]= {10,20,30,40,50}, sum = 90 <br>
+     solution - https://github.com/Itachi-Ucchiha/BasicDSA/blob/main/6thJuly(IV).java <br>
+
+32. 
