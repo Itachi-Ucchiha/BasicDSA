@@ -111,4 +111,9 @@
         arr[]= {10,20,30,40,50}, sum = 90 <br>
      solution - https://github.com/Itachi-Ucchiha/BasicDSA/blob/main/6thJuly(IV).java <br>
 
-32. 
+32. Next greater element to the right. <br>
+    I/P = {5,10,15,8,9,12,6} <br>
+    O/P = {10,15,-1,9,12,-1,-1}  <br>
+    solution - https://github.com/Itachi-Ucchiha/BasicDSA/blob/main/6thJuly(V).java <br>
+
+33.
