@@ -96,8 +96,11 @@
     problem link - https://leetcode.com/problems/find-peak-element/submissions/ <br>
     solution - https://github.com/Itachi-Ucchiha/BasicDSA/blob/main/3June(IV).java <br>
 
-28. Subarray Sum - <br>
-    problem link - https://practice.geeksforgeeks.org/problems/max-sum-subarray-of-size-k5313/1 <br>
+28. Subarray sum of k - <br>
     solution - https://github.com/Itachi-Ucchiha/BasicDSA/blob/main/6thJune(II).java <br>
 
-29. 
+29. Max Subarray Sum of k size - <br>
+    problem link - https://practice.geeksforgeeks.org/problems/max-sum-subarray-of-size-k5313/1 <br>
+    solution - https://github.com/Itachi-Ucchiha/BasicDSA/blob/main/6thJune(I).java <br>
+
+30.
