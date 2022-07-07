@@ -116,4 +116,8 @@
     O/P = {10,15,-1,9,12,-1,-1}  <br>
     solution - https://github.com/Itachi-Ucchiha/BasicDSA/blob/main/6thJuly(V).java <br>
 
-33.
+33. product of array except self  (leetcode-238) <br>
+    problem link - https://leetcode.com/problems/product-of-array-except-self/submissions/ <br>
+    solution - https://github.com/Itachi-Ucchiha/BasicDSA/blob/main/6thJune(V).java <br>
+    
+34. 
