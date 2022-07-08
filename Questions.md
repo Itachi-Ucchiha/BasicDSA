@@ -120,4 +120,8 @@
     problem link - https://leetcode.com/problems/product-of-array-except-self/submissions/ <br>
     solution - https://github.com/Itachi-Ucchiha/BasicDSA/blob/main/6thJune(V).java <br>
     
-34. 
+34. Next Greater Element III <br>
+    problem link - https://leetcode.com/problems/next-greater-element-iii/submissions/ <br>
+    solution - https://github.com/Itachi-Ucchiha/BasicDSA/blob/main/7thJune(I).java <br>
+
+35.
