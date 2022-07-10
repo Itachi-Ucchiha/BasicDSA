@@ -124,4 +124,8 @@
     problem link - https://leetcode.com/problems/next-greater-element-iii/submissions/ <br>
     solution - https://github.com/Itachi-Ucchiha/BasicDSA/blob/main/7thJune(I).java <br>
 
-35.
+35. Reverse the words in a String. <br>
+    problem link - https://leetcode.com/problems/reverse-words-in-a-string/ <br>
+    solution - https://github.com/Itachi-Ucchiha/BasicDSA/blob/main/7thJune(II).java <br>
+
+36.
