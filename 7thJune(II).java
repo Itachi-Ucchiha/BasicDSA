@@ -29,6 +29,24 @@ public class reverseWordsinString {
     }
 
 
+
+
+    static String reverse2(String s){
+        String wordarr[] = s.split(" ");
+        String sentence = "";
+        int n = wordarr.length;
+        for(int i = n-1; i>=0; i--){
+            if(wordarr[i].equals("")){
+                continue;
+            }
+            sentence += wordarr[i];
+        }
+        sentence = sentence.trim();
+        return sentence;
+
+    }
+
+
     public static void main(String[] args) {
         String s = "           hello       world  ";
         System.out.println(reverse(s));
