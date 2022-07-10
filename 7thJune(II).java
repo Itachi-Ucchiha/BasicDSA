@@ -45,6 +45,25 @@ public class reverseWordsinString {
         return sentence;
 
     }
+    
+    
+    
+    
+    
+    
+    
+    // by collections 
+// list is the parent of the collection
+    static String appraoch3(String s){
+        s=s.trim();
+        List<String> wordsList = Arrays.asList(s.split("\\s+"));
+        Collections.reverse(wordsList);
+        return String.join(" ", wordsList);
+
+    }
+    
+    
+    
 
 
     public static void main(String[] args) {
