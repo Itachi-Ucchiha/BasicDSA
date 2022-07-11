@@ -128,4 +128,7 @@
     problem link - https://leetcode.com/problems/reverse-words-in-a-string/ <br>
     solution - https://github.com/Itachi-Ucchiha/BasicDSA/blob/main/7thJune(II).java <br>
 
-36.
+36. String Permutations. <br>
+    solution - https://github.com/Itachi-Ucchiha/BasicDSA/blob/main/8thJune(I).java <br>
+
+37.
