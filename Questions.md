@@ -131,4 +131,7 @@
 36. String Permutations. <br>
     solution - https://github.com/Itachi-Ucchiha/BasicDSA/blob/main/8thJune(I).java <br>
 
-37.
+37. Rabin Karp algo for string pattern matching. <br>
+    solution - https://github.com/Itachi-Ucchiha/BasicDSA/blob/main/9thJune.java <br>
+
+38.
