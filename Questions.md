@@ -134,4 +134,7 @@
 37. Rabin Karp algo for string pattern matching. <br>
     solution - https://github.com/Itachi-Ucchiha/BasicDSA/blob/main/9thJune.java <br>
 
-38.
+38. KMP pattern matching <br>
+    solution - https://github.com/Itachi-Ucchiha/BasicDSA/blob/main/10thJune(II).java <br>
+
+39. 
