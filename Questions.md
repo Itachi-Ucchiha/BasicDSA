@@ -142,4 +142,6 @@
 
 40. String Compression. <br>
     problem link - https://leetcode.com/problems/string-compression/submissions/ <br>
-    soolution - 
+    soolution - https://github.com/Itachi-Ucchiha/BasicDSA/blob/main/13thJune(I).java <br>
+
+41.
