@@ -140,4 +140,6 @@
 39. KMP pattern matching <br>
     solution - https://github.com/Itachi-Ucchiha/BasicDSA/blob/main/10thJune(II).java <br>
 
-40. 
+40. String Compression. <br>
+    problem link - https://leetcode.com/problems/string-compression/submissions/ <br>
+    soolution - 
