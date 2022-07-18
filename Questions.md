@@ -148,4 +148,8 @@
     problem link - https://leetcode.com/problems/string-to-integer-atoi/submissions/ <br>
     solution - https://github.com/Itachi-Ucchiha/BasicDSA/blob/main/13thjune(II).java <br>
 
-42.
+42. Integer To Roman <br>
+    problem link - https://leetcode.com/problems/integer-to-roman/submissions/ <br>
+    solution - https://github.com/Itachi-Ucchiha/BasicDSA/blob/main/13thJune(III).java <br>
+
+43. 
