@@ -144,4 +144,8 @@
     problem link - https://leetcode.com/problems/string-compression/submissions/ <br>
     soolution - https://github.com/Itachi-Ucchiha/BasicDSA/blob/main/13thJune(I).java <br>
 
-41.
+41. String to Integer. (atoi) <br>
+    problem link - https://leetcode.com/problems/string-to-integer-atoi/submissions/ <br>
+    solution - https://github.com/Itachi-Ucchiha/BasicDSA/blob/main/13thjune(II).java <br>
+
+42.
