@@ -152,4 +152,8 @@
     problem link - https://leetcode.com/problems/integer-to-roman/submissions/ <br>
     solution - https://github.com/Itachi-Ucchiha/BasicDSA/blob/main/13thJune(III).java <br>
 
-43. 
+43. Toeplitz matrix (leetcode) <br>
+    problem link - https://leetcode.com/problems/toeplitz-matrix/ <br>
+    Solution - https://github.com/Itachi-Ucchiha/BasicDSA/blob/main/13thJune(IV).java <br>
+
+44.
