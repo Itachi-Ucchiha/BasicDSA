@@ -5,7 +5,7 @@
     solution - https://github.com/Itachi-Ucchiha/BasicDSA/blob/main/SecondLargestNumber.java<br>
     
 3. Third largest number in array.<br>
-    solution - Nahi kiya maine .....Khud krr lena <br>
+    solution -  <br>
     
 4. span of the array - Difference b/w the max and min element of an array.<br>
     solution - https://github.com/Itachi-Ucchiha/BasicDSA/blob/main/SpanOfArray.java<br>
@@ -160,4 +160,6 @@
     problem link - https://leetcode.com/problems/transpose-matrix/solution/ <br>
     solution - https://github.com/Itachi-Ucchiha/BasicDSA/blob/main/13thJune(V).java <br>
 
-45. 
+45. Lucky number. <br>
+    problem link - https://leetcode.com/problems/lucky-numbers-in-a-matrix/ <br>
+    solution - <br>
