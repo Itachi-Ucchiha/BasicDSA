@@ -156,4 +156,8 @@
     problem link - https://leetcode.com/problems/toeplitz-matrix/ <br>
     Solution - https://github.com/Itachi-Ucchiha/BasicDSA/blob/main/13thJune(IV).java <br>
 
-44.
+44. Transpose of a matrix. <br>
+    problem link - https://leetcode.com/problems/transpose-matrix/solution/ <br>
+    solution - https://github.com/Itachi-Ucchiha/BasicDSA/blob/main/13thJune(V).java <br>
+
+45. 
