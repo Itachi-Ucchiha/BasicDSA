@@ -163,3 +163,9 @@
 45. Lucky number. <br>
     problem link - https://leetcode.com/problems/lucky-numbers-in-a-matrix/ <br>
     solution - <br>
+
+46. Roman to Integer<br>
+    problem link - https://leetcode.com/problems/roman-to-integer/submissions/ <br>
+    solution - https://github.com/Itachi-Ucchiha/BasicDSA/blob/main/13thJune(VI).java <br>
+
+47.
