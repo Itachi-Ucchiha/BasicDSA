@@ -175,4 +175,7 @@
 48. Rotate matrix in clock wise direction <br>
     solution - https://github.com/Itachi-Ucchiha/BasicDSA/blob/main/14thJune(II).java <br>
 
-49.
+49. Snake Pattern matrix.<br>
+    solution - https://github.com/Itachi-Ucchiha/BasicDSA/blob/main/14thJune(III).java <br>
+
+50. 
