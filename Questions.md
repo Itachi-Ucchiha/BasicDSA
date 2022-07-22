@@ -168,4 +168,8 @@
     problem link - https://leetcode.com/problems/roman-to-integer/submissions/ <br>
     solution - https://github.com/Itachi-Ucchiha/BasicDSA/blob/main/13thJune(VI).java <br>
 
-47.
+47. Longest Substring without repeating characters. <br>
+    problem link - https://leetcode.com/problems/longest-substring-without-repeating-characters/submissions/ <br>
+    solution - https://github.com/Itachi-Ucchiha/BasicDSA/blob/main/14thJune(I).java <br>
+
+48.
