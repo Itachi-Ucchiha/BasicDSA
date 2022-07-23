@@ -178,4 +178,7 @@
 49. Snake Pattern matrix.<br>
     solution - https://github.com/Itachi-Ucchiha/BasicDSA/blob/main/14thJune(III).java <br>
 
-50. 
+50. print matrix in spiral pattern <br>
+    solution - https://github.com/Itachi-Ucchiha/BasicDSA/commit/8eed87122f8a696e55e24c35b9d63e4b7e40c5b9 <br>
+
+51.
