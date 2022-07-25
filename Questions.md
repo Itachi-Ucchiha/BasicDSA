@@ -185,4 +185,8 @@
     problem link - https://leetcode.com/problems/set-matrix-zeroes/ <br>
     solution - https://github.com/Itachi-Ucchiha/BasicDSA/blob/main/14thJune(V).java <br>
 
-52. 
+52. Matrix diagonal sum. <br>
+    problem link - https://leetcode.com/problems/matrix-diagonal-sum/submissions/ <br>
+    solution - https://github.com/Itachi-Ucchiha/BasicDSA/blob/main/14thJune(VI).java <br>
+
+53.
