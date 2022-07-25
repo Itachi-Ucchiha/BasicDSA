@@ -146,7 +146,7 @@
 
 41. String to Integer. (atoi) <br>
     problem link - https://leetcode.com/problems/string-to-integer-atoi/submissions/ <br>
-    solution - https://github.com/Itachi-Ucchiha/BasicDSA/blob/main/13thjune(II).java <br>
+    solution - https://github.com/Itachi-Ucchiha/BasicDSA/blob/main/13thJune(II).java <br>
 
 42. Integer To Roman <br>
     problem link - https://leetcode.com/problems/integer-to-roman/submissions/ <br>
