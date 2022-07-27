@@ -208,6 +208,7 @@
     solution - https://github.com/Itachi-Ucchiha/BasicDSA/blob/main/16thJune(VI).java <br>
 
 59. Pascal's Triangle. <br>
-    solution - https://leetcode.com/problems/pascals-triangle/submissions/ <br>
+    problem link - https://leetcode.com/problems/pascals-triangle/submissions/ <br>
+    solution - https://github.com/Itachi-Ucchiha/BasicDSA/blob/main/16thJune(VII).java <br>
 
 60.
