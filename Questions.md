@@ -204,4 +204,7 @@
 57. count the number of zeroes. <br>
     solution - https://github.com/Itachi-Ucchiha/BasicDSA/blob/main/16thjune(V).java <br>
     
-58.
+58. Tree recursion. <br>
+    solution - https://github.com/Itachi-Ucchiha/BasicDSA/blob/main/16thJune(VI).java <br>
+
+59.
