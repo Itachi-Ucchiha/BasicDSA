@@ -192,4 +192,16 @@
 53. Recursion overview. <br>    
     solution - https://github.com/Itachi-Ucchiha/BasicDSA/blob/main/16thJune(I).java <br>
 
-54.
+54. power calculate by recursion<br>
+    solution - https://github.com/Itachi-Ucchiha/BasicDSA/blob/main/16thJune(II).java <br>
+    
+55. sum of digit by recursion.<br>
+    solution - https://github.com/Itachi-Ucchiha/BasicDSA/blob/main/16thJune(III).java <br>
+    
+56. count the number of digits. <br>
+    solution - https://github.com/Itachi-Ucchiha/BasicDSA/blob/main/16thJune(IV).java <br>
+    
+57. count the number of zeroes. <br>
+    solution - https://github.com/Itachi-Ucchiha/BasicDSA/blob/main/16thjune(V).java <br>
+    
+58.
