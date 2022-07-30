@@ -211,4 +211,7 @@
     problem link - https://leetcode.com/problems/pascals-triangle/submissions/ <br>
     solution - https://github.com/Itachi-Ucchiha/BasicDSA/blob/main/16thJune(VII).java <br>
 
-60.
+60. Fibonacci series using recursion. <br>
+    solution - https://github.com/Itachi-Ucchiha/BasicDSA/blob/main/17thJune(I).java <br>
+
+61.
