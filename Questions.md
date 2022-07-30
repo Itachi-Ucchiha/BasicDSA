@@ -214,4 +214,6 @@
 60. Fibonacci series using recursion. <br>
     solution - https://github.com/Itachi-Ucchiha/BasicDSA/blob/main/17thJune(I).java <br>
 
-61.
+61. String Subsequence using recursion. <br>
+    solution - https://github.com/Itachi-Ucchiha/BasicDSA/blob/main/17thJune(II).java <br>
+
