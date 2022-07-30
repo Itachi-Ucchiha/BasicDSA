@@ -24,3 +24,12 @@ public class pattern2 {
         printPattern4(5, 1);
     }
 }
+
+
+
+// OP ===
+// A
+// B B
+// C C C
+// D D D D
+// E E E E E
