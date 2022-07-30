@@ -217,3 +217,8 @@
 61. String Subsequence using recursion. <br>
     solution - https://github.com/Itachi-Ucchiha/BasicDSA/blob/main/17thJune(II).java <br>
 
+62. printing patterns using recursion <br>
+    solution - (1) https://github.com/Itachi-Ucchiha/BasicDSA/blob/main/17thJune(III).java <br>
+               (2) https://github.com/Itachi-Ucchiha/BasicDSA/blob/main/17thJune(II).java <br>
+
+63.
