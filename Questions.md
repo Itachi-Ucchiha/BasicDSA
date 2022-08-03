@@ -221,4 +221,8 @@
     solution - (1) https://github.com/Itachi-Ucchiha/BasicDSA/blob/main/17thJune(III).java <br>
                (2) https://github.com/Itachi-Ucchiha/BasicDSA/blob/main/17thJune(II).java <br>
 
-63.
+63. Implement strStr() - haystack, needle <br>
+    problem link - https://leetcode.com/problems/implement-strstr/ <br>
+    solution - https://github.com/Itachi-Ucchiha/BasicDSA/blob/main/22ndJune(I).java <br>
+
+64. 
