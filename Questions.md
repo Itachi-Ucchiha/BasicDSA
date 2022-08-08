@@ -229,4 +229,6 @@
     problem link - https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/ <br>
     solution - https://github.com/Itachi-Ucchiha/BasicDSA/blob/main/22ndjune(II).java <br>
 
-65.
+65. Summary Ranges (leetcode)<br>
+    problem link - https://leetcode.com/problems/summary-ranges/submissions/ <br>
+    solution - https://github.com/Itachi-Ucchiha/BasicDSA/blob/main/23rdJune(I).java <br>
