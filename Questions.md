@@ -236,4 +236,7 @@
 66. Tower of hanoi. <br>
     solution - https://github.com/Itachi-Ucchiha/BasicDSA/blob/main/23rdJune(II).java <br>
 
-67.
+67. Josephus problem<br>
+    solution - https://github.com/Itachi-Ucchiha/BasicDSA/blob/main/23rdJune(III).java <br>
+
+68.
