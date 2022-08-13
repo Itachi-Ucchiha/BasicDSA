@@ -232,3 +232,8 @@
 65. Summary Ranges (leetcode)<br>
     problem link - https://leetcode.com/problems/summary-ranges/submissions/ <br>
     solution - https://github.com/Itachi-Ucchiha/BasicDSA/blob/main/23rdJune(I).java <br>
+
+66. Tower of hanoi. <br>
+    solution - https://github.com/Itachi-Ucchiha/BasicDSA/blob/main/23rdJune(II).java <br>
+
+67.
