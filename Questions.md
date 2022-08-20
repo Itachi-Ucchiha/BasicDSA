@@ -242,4 +242,8 @@
 68. N queen problem <br>
     solution - https://github.com/Itachi-Ucchiha/BasicDSA/blob/main/24thJune(I).java <br>
 
-69. 
+69. Generate Parentheses <br>
+    problem link - https://leetcode.com/problems/generate-parentheses/ <br>
+    solution - https://github.com/Itachi-Ucchiha/BasicDSA/blob/main/24thJune(II).java <br>
+
+70.
