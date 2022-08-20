@@ -239,4 +239,7 @@
 67. Josephus problem<br>
     solution - https://github.com/Itachi-Ucchiha/BasicDSA/blob/main/23rdJune(III).java <br>
 
-68.
+68. N queen problem <br>
+    solution - https://github.com/Itachi-Ucchiha/BasicDSA/blob/main/24thJune(I).java <br>
+
+69. 
