@@ -246,4 +246,7 @@
     problem link - https://leetcode.com/problems/generate-parentheses/ <br>
     solution - https://github.com/Itachi-Ucchiha/BasicDSA/blob/main/24thJune(II).java <br>
 
-70.
+70. Fibonacii using dp <br>.
+    solution - https://github.com/Itachi-Ucchiha/BasicDSA/blob/main/27thJune(I).java <br>
+
+71.
