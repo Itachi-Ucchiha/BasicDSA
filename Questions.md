@@ -249,4 +249,13 @@
 70. Fibonacii using dp <br>.
     solution - https://github.com/Itachi-Ucchiha/BasicDSA/blob/main/27thJune(I).java <br>
 
-71.
+71. Dice game using optimization DP<br>
+    solution - https://github.com/Itachi-Ucchiha/BasicDSA/blob/main/28thJune(I).java <br>
+
+72. LCS using noraml recursion <br>
+    solution - https://github.com/Itachi-Ucchiha/BasicDSA/blob/main/28thJune(II).java <br>
+
+73. LCS using memoization<br>
+    solution - https://github.com/Itachi-Ucchiha/BasicDSA/blob/main/28thJune(III).java <br>
+
+74.
