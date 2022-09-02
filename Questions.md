@@ -258,4 +258,10 @@
 73. LCS using memoization<br>
     solution - https://github.com/Itachi-Ucchiha/BasicDSA/blob/main/28thJune(III).java <br>
 
-74.
+74. Linked List<br>
+    solution -   <br> 
+
+75. Stack Implementation using Linked List<br>
+    solution - https://github.com/Itachi-Ucchiha/BasicDSA/blob/main/3Sep.java <br>
+
+76.
